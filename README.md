@@ -3,38 +3,12 @@ Calendar with notes saved on device storage, some grid view and other code snipp
 
 ### 💖&ensp;Access Source Code [(FAQ)](https://github.com/JohannesMilke/sponsorware "FAQ")
 
-You need to click [REQUEST](https://johannesmilke.com/#/request "REQUEST") first, before you will get access to [THIS Source Code](https://github.com/JohannesMilke-Sponsors/search_filter_bar "THIS Source Code") and of all my other Flutter Videos.
-
-[<img alt="JohannesMilke | REQUEST" height="40px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_request.png?alt=media" />](https://johannesmilke.com/#/request "REQUEST")&ensp;[<img alt="JohannesMilke | ACCESS" height="40px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub%2Fsponsored%2Fbutton_access.png?alt=media" />](https://github.com/JohannesMilke-Sponsors/search_filter_bar "ACCESS")
-    
-# Flutter Search Textfield (inside ListView/AppBar)
-[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/JohannesMilke?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![Newsletter](https://img.shields.io/static/v1?label=Follow&message=My%20Flutter%20Newsletter&color=5FB709&style=for-the-badge)][newsletter]
-
-[<img alt="JohannesMilke | Sponsor" height="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fsponsorme.png?alt=media" />][sponsor]
-   
-[![GitHub stars](https://img.shields.io/github/stars/JohannesMilke/search_filter_bar.svg?style=social&label=Star)](https://github.com/JohannesMilke/search_filter_bar)
-[![GitHub JohannesMilke](https://img.shields.io/github/followers/JohannesMilke?label=follow&style=social)](https://github.com/JohannesMilke)
-
-How to create a Search Textfield in Flutter to search and filter data inside a ListView or AppBar widget.
 
 ### ✌&ensp;Preview
 
-|              App Preview             |             Course Preview           |
-| :----------------------------------: | :----------------------------------: |
+|              App Preview             
+| :----------------------------------: |
 | <a href="https://www.youtube.com/watch?v=Xdt8TlwNRAM" target="_blank"><img src="preview.gif" width="350"></a> | <a href="https://johannesmilke.teachable.com/p/home" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fgithub_ad.png?alt=media" width="350"></a> |
-
-➜&ensp;[Buy My Courses](https://johannesmilke.teachable.com/p/home "Buy My Courses")
-
-### 📺&ensp;Watch Video
-
-##### [YouTube video](https://www.youtube.com/watch?v=Xdt8TlwNRAM "Youtube Johannes Milke") where the *source code* is explained. [Subscribe YouTube channel.](https://www.youtube.com/JohannesMilke?sub_confirmation=1 "YouTube Subscribe Johannes Milke")  
-<a href="https://www.youtube.com/watch?v=Xdt8TlwNRAM&feature=player_embedded
-" target="_blank"><img src="http://img.youtube.com/vi/Xdt8TlwNRAM/maxresdefault.jpg" 
-alt="Flutter Search Textfield (inside ListView/AppBar) YouTube video" width="480" border="10" /></a>
-
-➜&ensp;[Watch My Video](https://www.youtube.com/watch?v=Xdt8TlwNRAM "Watch My Video")
 
 ### ⚡&ensp;Social Media
 
