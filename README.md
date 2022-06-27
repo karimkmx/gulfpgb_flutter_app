@@ -20,16 +20,10 @@ Calendar with notes saved on device storage, some grid view and other code snipp
 
 [<img align="center" alt="JohannesMilke | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />](https://www.facebook.com/real.JohannesMilke)&ensp;Facebook: [@JohannesMilke](https://www.facebook.com/real.JohannesMilke "Facebook Johannes Milke")
 
-[<img align="center" alt="JohannesMilke | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />](https://linkedin.com/in/JohannesMilke)&ensp;LinkedIn: [@JohannesMilke](https://linkedin.com/in/JohannesMilke "LinkedIn Johannes Milke")
+[<img align="center" alt="KarimAlawieh | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />](https://www.linkedin.com/in/karim-alawieh-054235238/)&ensp;LinkedIn: [@KarimAlawieh](https://www.linkedin.com/in/karim-alawieh-054235238/ "LinkedIn Karim Alawieh")
 
 [<img align="center" alt="JohannesMilke | GitHub" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fgithub.png?alt=media" />](https://github.com/JohannesMilke)&ensp;GitHub: [@JohannesMilke](https://github.com/JohannesMilke "GitHub Johannes Milke")
 
 [<img align="center" alt="JohannesMilke | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />](https://medium.com/@JohannesMilke)&ensp;Medium: [@JohannesMilke](https://medium.com/@JohannesMilke "Medium Johannes Milke")
 
 [<img align="center" alt="JohannesMilke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />](https://johannesmilke.com)&ensp;Website: [@JohannesMilke](https://johannesmilke.com "Website Johannes Milke")
-
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=JohannesMilke
-[youtube]: https://www.youtube.com/JohannesMilke?sub_confirmation=1
-[courses]: https://johannesmilke.teachable.com/p/home
-[newsletter]: https://johannesmilke.com/#/newsletter
-[sponsor]: https://github.com/sponsors/JohannesMilke
