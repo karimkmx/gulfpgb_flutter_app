@@ -10,9 +10,9 @@ Calendar with notes saved on device storage, some grid view, and Tap payment int
 | :-------------------------------  App Preview  -------------------------------: |
 </p>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/karimkmx/gulfpgb_flutter_app/main/gulfpgb1.png" width="350" title="hover text">
-  <img src="https://raw.githubusercontent.com/karimkmx/gulfpgb_flutter_app/main/gulfpgb2.png" width="350" alt="accessibility text">
-    <img src="https://raw.githubusercontent.com/karimkmx/gulfpgb_flutter_app/main/gulfpgb3.png" width="350" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/karimkmx/gulfpgb_flutter_app/main/gulfpgb1.png" width="250" title="hover text">
+  <img src="https://raw.githubusercontent.com/karimkmx/gulfpgb_flutter_app/main/gulfpgb2.png" width="250" alt="accessibility text">
+    <img src="https://raw.githubusercontent.com/karimkmx/gulfpgb_flutter_app/main/gulfpgb3.png" width="250" alt="accessibility text">
 </p>
 
 
