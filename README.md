@@ -11,7 +11,8 @@ Calendar with notes saved on device storage, some grid view, and Tap payment int
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/karimkmx/gulfpgb_flutter_app/main/gulfpgb1.png" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/karimkmx/gulfpgb_flutter_app/main/gulfpgb2.png" width="350" alt="accessibility text">
+    <img src="https://raw.githubusercontent.com/karimkmx/gulfpgb_flutter_app/main/gulfpgb3.png" width="350" alt="accessibility text">
 </p>
 
 
