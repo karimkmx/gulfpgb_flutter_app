@@ -1,7 +1,7 @@
 # gulfpgb_flutter_app
-Calendar with notes saved on device storage, some grid view and other code snippets
+Calendar with notes saved on device storage, some grid view, and Tap payment integration.
 
-### 💖&ensp;Access Source Code [(FAQ)](https://github.com/JohannesMilke/sponsorware "FAQ")
+### 💖&ensp;Access Source Code [(FAQ)](https://github.com/karimkmx/sponsorware "FAQ")
 
 
 ### ✌&ensp;Preview
