@@ -6,8 +6,8 @@ Calendar with notes saved on device storage, some grid view, and Tap payment int
 
 ### ✌&ensp;Preview
 <p align="center">
-               App Preview             
-| :--------------------------------------------------------------: |
+                          
+| :-------------------------------  App Preview  -------------------------------: |
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/karimkmx/gulfpgb_flutter_app/main/gulfpgb1.png" width="350" title="hover text">
